@@ -1,0 +1,7 @@
+{
+  "name": "pager",
+  "version": "1.0.0",
+  "devDependencies": {
+    "gulp-uglify": "^2.0.1"
+  }
+}
